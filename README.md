@@ -94,7 +94,7 @@ http://localhost/cyclonova
 
 Desarrollar una plataforma web profesional que fortalezca la presencia digital de Cyclonova, facilite la comunicación con clientes potenciales y permita presentar de forma clara los servicios y soluciones de la empresa.
 
-## 👨‍💻 Autor
+##  Autor
 
 **Eduardo Hernández**
 
@@ -104,4 +104,4 @@ Ingeniero Informático | Software Developer
 
 ---
 
-⭐ Proyecto desarrollado como parte de mi portafolio profesional.
+
