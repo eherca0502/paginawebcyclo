@@ -47,15 +47,15 @@ Agrega aquí capturas de pantalla del sitio web.
 
 ### Inicio
 
-![Inicio](screenshots/inicio.png)
+![Inicio](inicio.png)
 
 ### Servicios
 
-![Servicios](screenshots/servicios.png)
+![Servicios](servicios.png)
 
 ### Contacto
 
-![Contacto](screenshots/contacto.png)
+![Contacto](contacto.png)
 
 ## 📂 Estructura del Proyecto
 
