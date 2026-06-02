@@ -43,7 +43,7 @@ Cyclonova es una plataforma web diseñada para presentar los servicios, experien
 
 ## 📸 Capturas del Proyecto
 
-Agrega aquí capturas de pantalla del sitio web.
+
 
 ### Inicio
 
