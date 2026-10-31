@@ -1,107 +1,130 @@
-# 🌐 Cyclonova
+# 🌐 Cyclonova | Corporate Website
 
-Sitio web corporativo desarrollado para **Cyclonova**, empresa especializada en construcción, mantenimiento industrial, automatización, infraestructura y servicios especializados para el sector industrial.
+**Desarrollo de plataforma web corporativa para Cyclonova**, empresa enfocada en servicios de construcción, mantenimiento industrial, automatización e infraestructura.
 
-## 🚀 Descripción
+Proyecto desarrollado para fortalecer la presencia digital de la empresa mediante un sitio web responsivo, orientado a la presentación de servicios, captación de clientes potenciales y comunicación directa.
 
-Cyclonova es una plataforma web diseñada para presentar los servicios, experiencia y capacidades de la empresa de forma profesional y accesible. El sitio permite a clientes potenciales conocer los servicios ofrecidos, solicitar información y establecer contacto con la organización.
+---
 
-## ✨ Características
+## 📌 Descripción del proyecto
 
-* Diseño moderno y responsivo.
-* Catálogo de servicios industriales.
-* Información corporativa y presentación de la empresa.
-* Formulario de contacto.
-* Optimización para dispositivos móviles.
-* Navegación intuitiva y experiencia de usuario mejorada.
-* Integración con WhatsApp para atención rápida.
-* Presentación de maquinaria y equipo especializado.
+Cyclonova es un sitio web corporativo diseñado para centralizar y presentar la información de la empresa, sus áreas de especialización y su catálogo de servicios.
 
-## 🏗️ Servicios Presentados
+La plataforma ofrece una experiencia de navegación intuitiva, adaptable a distintos dispositivos y enfocada en facilitar el acceso a la información y los medios de contacto.
 
-* Mantenimiento Eléctrico
-* Mantenimiento Mecánico
-* Automatización Industrial
-* Mantenimiento Hidrosanitario
-* Aire Acondicionado y Refrigeración
-* Iluminación Industrial
-* Impermeabilización
-* Trabajos en Alturas
-* Jardinería y Paisajismo
-* Limpieza Industrial Especializada
-* Construcción e Infraestructura
-* Renta y operación de maquinaria especializada
+El desarrollo contempla tanto la interfaz visual como funcionalidades del lado del servidor para gestionar determinados elementos del sitio.
 
-## 🛠️ Tecnologías Utilizadas
+## ✨ Funcionalidades principales
 
-* HTML5
-* CSS3
-* JavaScript
-* PHP
-* MySQL
-* Bootstrap
+- **Diseño responsivo:** adaptación de la interfaz a computadoras, tablets y dispositivos móviles.
+- **Presentación corporativa:** secciones informativas sobre la empresa, experiencia y capacidades.
+- **Catálogo de servicios:** organización y presentación de las diferentes soluciones ofrecidas.
+- **Formulario de contacto:** mecanismo para facilitar la comunicación con clientes potenciales.
+- **Integración con WhatsApp:** acceso directo a canales de atención y contacto comercial.
+- **Contenido visual:** presentación de maquinaria, equipo especializado y proyectos relacionados con los servicios.
+- **Navegación intuitiva:** estructura organizada para mejorar la experiencia del usuario.
+- **Soporte multilingüe:** presentación de contenido en español e inglés.
 
-## 📸 Capturas del Proyecto
+## 🏗️ Áreas de servicio presentadas
 
+| Categoría | Servicios |
+|---|---|
+| Construcción | Construcción e infraestructura |
+| Mantenimiento | Eléctrico, mecánico e hidrosanitario |
+| Automatización | Automatización industrial |
+| Instalaciones | Iluminación industrial, aire acondicionado y refrigeración |
+| Servicios especializados | Trabajos en alturas, impermeabilización y limpieza industrial |
+| Servicios generales | Jardinería y paisajismo |
+| Maquinaria | Renta y operación de maquinaria especializada |
 
+## 🛠️ Tecnologías utilizadas
 
-### Inicio
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
 
-![Inicio](inicio.PNG)
+**Backend**
+- PHP
+- MySQL
 
-### Servicios
+## 📸 Capturas de pantalla
 
-![Servicios](servicios.PNG)
+### Página de inicio
+![Página de inicio](inicio.PNG)
 
-### Contacto
+### Catálogo de servicios
+![Catálogo de servicios](servicios.PNG)
 
-![Contacto](contacto.PNG)
+### Sección de contacto
+![Sección de contacto](contacto.PNG)
 
-## 📂 Estructura del Proyecto
+## 📂 Estructura del proyecto
 
 ```text
 Cyclonova/
 │
 ├── assets/
-├── css/
-├── js/
-├── img/
+│   ├── css/
+│   ├── js/
+│   └── img/
+│
 ├── includes/
 ├── servicios/
 ├── index.php
 └── README.md
 ```
 
-## ⚙️ Instalación
+*La estructura mostrada es representativa y puede variar según la versión del proyecto.*
+
+## ⚙️ Instalación y configuración
+
+### Requisitos previos
+
+- Servidor local compatible con PHP (XAMPP, WAMP o similar).
+- PHP.
+- MySQL.
+- Navegador web moderno.
+
+### Pasos de instalación
 
 1. Clonar el repositorio:
 
 ```bash
-git clone https://github.com/TU-USUARIO/cyclonova.git
+git clone https://github.com/eherca0502/paginawebcyclo.git
 ```
 
-2. Colocar el proyecto en el servidor local.
+2. Colocar el proyecto dentro del directorio público del servidor local.
 
-3. Configurar la conexión a la base de datos.
+3. Iniciar Apache y MySQL.
 
-4. Ejecutar desde:
+4. Configurar los parámetros de conexión a la base de datos según la configuración del proyecto.
+
+5. Abrir el sitio desde el navegador:
 
 ```text
-http://localhost/cyclonova
+http://localhost/paginawebcyclo/
 ```
 
-## 🎯 Objetivo del Proyecto
+## 🎯 Objetivos del desarrollo
 
-Desarrollar una plataforma web profesional que fortalezca la presencia digital de Cyclonova, facilite la comunicación con clientes potenciales y permita presentar de forma clara los servicios y soluciones de la empresa.
+- Fortalecer la presencia digital de la empresa.
+- Presentar de manera estructurada sus servicios y capacidades.
+- Facilitar el contacto con clientes potenciales.
+- Ofrecer una experiencia de navegación accesible y adaptable.
+- Implementar una solución web utilizando tecnologías de desarrollo frontend y backend.
 
-##  Autor
+## 👨‍💻 Autor
 
 **Eduardo Hernández**
 
-Ingeniero Informático | Software Developer
+Software Developer |
 
-📧 [hdze977@gmail.com](mailto:hdze977@gmail.com)
+- GitHub: [@eherca0502](https://github.com/eherca0502)
+- Portafolio: [eherca-portafolio.netlify.app](https://eherca-portafolio.netlify.app)
 
 ---
 
+<sub>Proyecto de desarrollo web corporativo realizado para Cyclonova.</sub>
 
